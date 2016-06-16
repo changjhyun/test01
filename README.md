@@ -4,6 +4,6 @@ first test
 
 ### first repository
 ```
-hi~~
+hi~
 ```
 **************************
